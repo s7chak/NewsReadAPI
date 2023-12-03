@@ -1,0 +1,14 @@
+pandas
+matplotlib
+bs4
+lxml
+requests
+nltk
+gensim
+spacy
+#python -m spacy download en_core_web_md
+wordcloud
+pyldavis
+#git+https://github.com/rwalk/gsdmm.git
+#topic-wizard
+python-docx
